@@ -1,6 +1,5 @@
 # markdown 练习
-My Github pages
-
+My Github pages<br>
  # 标题一<br>
  ## 标题二<br>
  ### 标题三<br>
@@ -13,13 +12,12 @@ My Github pages
 > ### 这是引用语句
 > ### 也可携带其他元素
 > - 其他元素
+> - 其他元素
 
-> ### 下面是一个列表
-> 1. s1
-> 2. s2
-> 3. s3
-> 
-表示代码: `print("Hello World")`
+### 下面是一个列表
+1. s1
+2. s2
+3. 表示代码: `print("Hello World")`
 ---
 上面是**分割线**<br>
 这个是 ***[淘宝链接](https://www.taobao.com "我只是一个淘宝")*** <br>
