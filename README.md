@@ -1,9 +1,9 @@
 # markdown 练习
 My Github pages
 
- # 标题一
- ## 标题二
- ### 标题三
+ # 标题一<br>
+ ## 标题二<br>
+ ### 标题三<br>
  
  这是一条普通段落文字
  
@@ -18,7 +18,7 @@ My Github pages
 > 1. s1
 > 2. s2
 > 3. s3
-
+> 
 表示代码: `print("Hello World")`
 ---
 上面是**分割线**<br>
